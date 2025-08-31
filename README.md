@@ -11,3 +11,4 @@
     <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Bluscrn99" />
   </a>
 </p>
+</center>
