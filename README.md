@@ -1,6 +1,6 @@
-<center><h1 align="center">Bluscrn</h1>
-<h2 align="center">hi!</h2>
-<p align="center">i just make stupid stuff mostly</p>
+<center><h1>im bluscrn</h1>
+<h3>hi!</h3>
+<p>i just make stupid stuff mostly</p>
 
 
 <p align="center">  
