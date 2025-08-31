@@ -4,4 +4,4 @@
 <p align="center">i only know html and python as of now</p>
 
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bluscrn99" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats" align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=Bluscrn99" alt="GitHub Streak" align="center"></a>
